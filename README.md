@@ -27,9 +27,9 @@ Data Source: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present
 
 ## Tableau Dashboards:
 
-![Main Dashboard](
+![Main Dashboard](https://github.com/krisbarbier/Project-4/blob/main/Main%20Dashboard.png)
 
-![Second Dashboard](
+![Second Dashboard](https://github.com/krisbarbier/Project-4/blob/main/Second%20Dashboard.png)
 
 ## Link to Dashboard:
 
